@@ -1,3 +1,6 @@
 [submodule "homework-1-spineda1208"]
 	path = homework-1-spineda1208
 	url = https://github.com/cmpsc473-sp25/homework-1-spineda1208.git
+[submodule "assignment-2-malloclab-spineda1208"]
+	path = assignment-2-malloclab-spineda1208
+	url = https://github.com/cmpsc473-sp25/assignment-2-malloclab-spineda1208
