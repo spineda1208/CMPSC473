@@ -4,3 +4,6 @@
 [submodule "assignment-2-malloclab-spineda1208"]
 	path = assignment-2-malloclab-spineda1208
 	url = https://github.com/cmpsc473-sp25/assignment-2-malloclab-spineda1208
+[submodule "mini-shell-project-spineda1208"]
+	path = mini-shell-project-spineda1208
+	url = https://github.com/cmpsc473-sp25/mini-shell-project-spineda1208.git
