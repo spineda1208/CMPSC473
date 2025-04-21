@@ -7,3 +7,6 @@
 [submodule "mini-shell-project-spineda1208"]
 	path = mini-shell-project-spineda1208
 	url = https://github.com/cmpsc473-sp25/mini-shell-project-spineda1208.git
+[submodule "concurrency-project-spineda1208"]
+	path = concurrency-project-spineda1208
+	url = https://github.com/cmpsc473-sp25/concurrency-project-spineda1208.git
